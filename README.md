@@ -1,4 +1,4 @@
 maveric
 =======
 
-Maveric is a strict MCV Framework for PHP using SPL and PDO.
+Maveric is a strict MVC Framework for PHP using SPL and PDO.
